@@ -1,0 +1,1 @@
+# slogry-notebooks-static
